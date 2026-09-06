@@ -18,7 +18,6 @@ Power BI analysis of 18 months of short-haul departure performance for **Northli
 
 One page, driven by the date slicer: six KPI cards across the top, OTP15 against target by month, delay minutes split by controllability, and delay and cancellation rates ranked by station. Station charts use rates rather than counts, for the reason set out below.
 
-The slicer in this screenshot stops at 28 June 2026, so its cards read marginally below the full-period figures quoted throughout this page.
 
 ---
 
