@@ -14,7 +14,7 @@ Power BI analysis of 18 months of short-haul departure performance for **Northli
 
 ## The dashboard
 
-![Departure punctuality dashboard](Delay%20dashboard.png)
+![Departure punctuality dashboard](Delay%20Dashboard.png)
 
 One page, driven by the date slicer: six KPI cards across the top, OTP15 against target by month, delay minutes split by controllability, and delay and cancellation rates ranked by station. Station charts use rates rather than counts, for the reason set out below.
 
@@ -170,7 +170,7 @@ DIVIDE(
 | File | Description |
 |---|---|
 | `Airline data.pbix` | Power BI report, including all Power Query steps and DAX measures |
-| `Delay dashboard.png` | Screenshot of the report page |
+| `Delay Dashboard.png` | Screenshot of the report page |
 
 ---
 
